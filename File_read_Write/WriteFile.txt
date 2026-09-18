@@ -1,0 +1,3 @@
+I am Zain 
+ What is Your Name?I am Zain What is Your Name?What is Your Name? //appendedI am Zain What is Your Name? //appendedWhat is Your Name? //appended //appended because write would overwrite
+ //appended because write would overwrite
