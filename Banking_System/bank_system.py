@@ -12,7 +12,6 @@ def open_account(account_title, cnic, account_deposit):
     }
 
 def find_account(account_number, pin=None):
-    """Finds an account by number, optionally verifying the PIN."""
     for account in acc_database:
         if account["account_number"] == account_number:
             if pin is not None and account["account_pin"] != pin:
